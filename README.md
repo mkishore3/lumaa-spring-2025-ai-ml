@@ -19,6 +19,8 @@ The code is meant to be run in a Jupyter Notebook with Python 3. The necessary i
 To run the recommender function and process the text data, open the Jupyter Notebook from the repository: `recommendation_system.ipynb`. 
 
 ## Results
+To utilize the recommendation system, simply call the `recommend_movies` function and pass an input string as a parameter. See the example input/output below: 
+
 **Example input:**
 `recommend_movies("A thrilling space adventure with humor")`
 
