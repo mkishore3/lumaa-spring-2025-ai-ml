@@ -31,3 +31,6 @@ To run the recommender function and process the text data, open the Jupyter Note
 
 The output is formatted as a list containing 5 tuples which are the closest movie matches to the input string based on TF-IDF cosine similarity. Tuples are in the form: `(Movie_name, similarity_score)`. Similarity scores can take a value in the range 0 to 1.
 
+---
+### Salary Expectation per Month
+I am excited about the opportunity to gain hands-on experience, contribute to a passionate team, and develop my technical skills. Based on industry standards and the internship listing, I believe a fair range would be $20-30/hour for 20 hours per week, which equates to approximately $1,600-$2,400 per month. However, I am open to discussing compensation and finding a structure that works best for all parties.
